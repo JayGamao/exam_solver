@@ -12,7 +12,7 @@ public class ThirdClass extends SecondClass {
         var3 ++;
         var4 += 5;
     }
-    ThirdClass(int var1, int var2, int var3, int var4, int var5) {
+    ThirdClass(int var1, int var2, int var3, int var4) {
         this.var2 = var2;
         this.var4 = var4;
         this.var1 = var1 + var3;
